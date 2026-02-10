@@ -4,7 +4,7 @@
 
 A comprehensive analysis of liquor sales data from Montgomery County (2017-2020) to identify sales trends, optimize inventory management and provide strategic business recommendations.
 
-![Dashboard Preview](liquor_sales_dashboard.png)
+![Dashboard Preview](results/liquor_sales_dashboard.png)
 
 ## Project Objective
 

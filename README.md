@@ -8,7 +8,7 @@ A comprehensive analysis of liquor sales data from Montgomery County (2017-2020)
 
 ## Project Objective
 
-**Business Context:** As a Data Analyst for Montgomery County's Department of Liquor Control, the goal was to analyze 4 years of sales data to:
+**Business Context:** As an aspiring Data Analyst, the goal was to analyze 4 years of sales data to:
 
 - Identify top-performing products and suppliers
 - Understand seasonal sales patterns
